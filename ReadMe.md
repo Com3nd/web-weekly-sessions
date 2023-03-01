@@ -16,5 +16,3 @@ The .ignore file bay be created using a .ignore plugin in JB software.
 - -> .ignore
 - -> .gitignore
 
-## Common file types to ignore
-
